@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on improving my skills in Cybersecurity through hands-on labs and real-world scenarios on Coursera<br><br>I’m looking to collaborate on security projects, bug bounty programs, and beginner-friendly freelance gigs<br><br>I’m looking for help with real-world cybersecurity practice, penetration testing, and client-based projects<br><br> I’m currently learning Network Security, Ethical Hacking, and Threat Analysis<br><br>Ask me about Data Science basics, Python, cybersecurity fundamentals, and online certifications<br><br> Fun fact: I enjoy breaking down complex tech concepts into simple ideas and love exploring how systems work behind the scenes
+I’m currently working on improving my skills in Cybersecurity through hands-on labs and real-world scenarios on Coursera<br><br>I’m looking to collaborate on security projects, bug bounty programs, and beginner-friendly freelance gigs<br><br> I’m currently learning Network Security, Ethical Hacking, and Threat Analysis<br><br>Ask me about Data Science basics, Python, cybersecurity fundamentals, and online certifications<br><br> Fun fact: I enjoy breaking down complex tech concepts into simple ideas and love exploring how systems work behind the scenes
 
 
 ## 🌐 Socials:
